@@ -1,1 +1,2 @@
-console.log("Hello  ");
+const obj= ["raja","prakash","amisha","samay"]
+console.log(obj);
